@@ -12,7 +12,7 @@ A desktop-friendly recipe management app built with **React + Vite**, designed t
 
 ## 🚀 Deployed App
 
-🔗 [Live Demo](https://your-deployment-link.netlify.app)
+🔗 [Live Demo](https://recipebookdigital.netlify.app)
 
 ---
 
