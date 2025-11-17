@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Shared/NavBar';
+import Navbar from './components/Shared/Navbar';
 import Login from './components/Auth/Login';
 import Register from './components/Auth/Register';
 import RecipeForm from './components/Recipes/RecipeForm';
